@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Rafael — Platform & Backend Engineer
 
-<!--
-**trestini/trestini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20+ years designing and building the systems other developers rely on to ship.
 
-Here are some ideas to get you started:
+**Working with:** Rust, TypeScript, Kotlin, Java · Kubernetes, AWS, Terraform · Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do:**
+- Systems-level performance and reliability
+- Internal frameworks and platform tooling
+- Polyglot system design (Rust ↔ TypeScript ↔ Java/Kotlin)
+
+**Recent work:**
+- Led Node.js → Rust migration of production customer-facing services (~15 services)
+- Architected self-managed Kubernetes consolidation on AWS — 50% cost reduction, 14→3 AWS accounts
+- Designed telemetry ingestion platform for Brazil's Open Finance ecosystem
+- Built the Vivere Framework — internal application platform deployed across 6 major banks, zero per-tenant code changes
+
+[LinkedIn](https://linkedin.com/in/trestini) · [X](https://x.com/rafaeltrestini)
+
+Outside of code: musician, motorcycle traveler, maker and 3D printing enthusiast.
