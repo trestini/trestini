@@ -5,9 +5,9 @@
 **Working with:** Rust, TypeScript, Kotlin, Java · Kubernetes, AWS, Terraform · Distributed Systems
 
 **What I do:**
-- Systems-level performance and reliability
 - Internal frameworks and platform tooling
 - Polyglot system design (Rust ↔ TypeScript ↔ Java/Kotlin)
+- Systems-level performance and reliability
 
 **Recent work:**
 - Led Node.js → Rust migration of production customer-facing services (~15 services)
